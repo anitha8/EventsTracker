@@ -1,0 +1,4 @@
+#Thu Apr 09 13:58:00 IST 2020
+base.0=/Users/bd3762/work/bee-cash/EventsTracker/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

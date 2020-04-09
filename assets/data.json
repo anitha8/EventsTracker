@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "eventId": "evt01",
+      "eventName": "Metallica Concert",
+      "location": "Palace Grounds",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt02",
+      "eventName": "Saree Exhibition",
+      "location": "Malleswaram Grounds ",
+      "fee": "free entry"
+    },
+    {
+      "eventId": "evt03",
+      "eventName": "Wine tasting event",
+      "location": "Links Brewery",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt04",
+      "eventName": "Startups Meet",
+      "location": "Kanteerava Indoor Stadium",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt05",
+      "eventName": "Summer Noon Party",
+      "location": "Kumara Park",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt06",
+      "eventName": "Rock and Roll nights",
+      "location": "Sarjapur Road",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt07",
+      "eventName": "Barbecue Fridays",
+      "location": "Whitefield",
+      "fee": "paid entry"
+    },
+    {
+      "eventId": "evt08",
+      "eventName": "Summer workshop",
+      "location": "Indiranagar",
+      "fee": "free entry"
+    },
+    {
+      "eventId": "evt09",
+      "eventName": "Impressions & Expressions",
+      "location": "MG Road",
+      "fee": "free entry"
+    },
+    {
+      "eventId": "evt10",
+      "eventName": "Italian carnival",
+      "location": "Electronic City",
+      "fee": "free entry"
+    }
+  ]
+}
