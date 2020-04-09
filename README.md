@@ -2,9 +2,13 @@
 
 1. Clone the Project
 2. To Run: 
-  i. yarn
-  ii. react-native run-android for android
-  iii. react-native run-ios for ios
+  
+  yarn
+  
+  react-native run-android for android
+  
+  react-native run-ios for ios
+  
   Any issues in IOS means, try below:
     1. cd ios
     2. pod install
